@@ -1,2 +1,2 @@
-# my-webworker
-This is a project that includes all the web worker related information
+#####webworker basic tutorial
+http://www.html5rocks.com/en/tutorials/workers/basics/
